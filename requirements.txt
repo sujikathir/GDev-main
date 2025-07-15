@@ -1,0 +1,21 @@
+# Core Dependencies
+fastapi>=0.104.0
+uvicorn>=0.24.0
+openai>=1.3.0
+python-dotenv>=1.0.0
+pydantic>=2.5.0
+
+# Streamlit App Dependencies
+streamlit>=1.28.0
+requests>=2.31.0
+pandas>=2.1.0
+plotly>=5.17.0
+
+# Additional dependencies
+python-multipart>=0.0.6
+
+# Optional: Composio (install manually if needed)
+# composio>=1.0.0rc9
+# composio-openai>=1.0.0rc9
+# langchain>=0.0.350
+# langchain-openai>=0.0.2 
